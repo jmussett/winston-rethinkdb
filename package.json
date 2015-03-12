@@ -1,0 +1,26 @@
+{
+  "name": "winston-rethinkdb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/winston-rethinkdb.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmussett/winston-rethinkdb.git"
+  },
+  "author": "James Mussett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmussett/winston-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/jmussett/winston-rethinkdb",
+  "dependencies": {
+    "rethinkdbdash": "^1.16.13",
+    "winston": "^0.9.0"
+  }
+}
